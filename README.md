@@ -13,4 +13,5 @@ If you want to use a declarative style, you might choose altair instead of matpl
 One notable difference is that Altair will keep plot elements and spacing constant while resizing the plot size to fit e.g. more categorical entries, whereas Plotly will modify spacing and the size of the elements in a plot to fit an overall plot size.
 
 ### This project
+
 Shows many ways to use Altair and the steps to get there, enjoy!!
